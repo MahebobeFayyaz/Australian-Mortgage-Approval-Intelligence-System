@@ -3,11 +3,11 @@
 
 ## Tools & Technologies Used
 
-* Programming & Development: Python
-* Data Manipulation: Pandas, NumPy
-* Data Visualization: Matplotlib, Seaborn
-* Version Control: Git, GitHub
-* Development Environment: Visual Studio Code
+* **Programming & Development:** Python
+* **Data Manipulation:** Pandas, NumPy
+* **Data Visualization:** Matplotlib, Seaborn
+* **Version Control:** Git, GitHub
+* **Development Environment:** Visual Studio Code
 
 ## Project Structure
 
@@ -16,7 +16,7 @@
 | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | `brokers.csv`                   | Synthetic broker data including experience, brand, location, conversion rate, and active loans.                                         |
 | `customers.csv`                 | Synthetic customer data including age, income, employment, dependents, state, and credit score band.                                    |
-| `loan_applications.csv`         | Synthetic loan application data linking customers and brokers with loan details and target variable (approved/rejected)**. |
+| `loan_applications.csv`         | Synthetic loan application data linking customers and brokers with loan details and target variable (approved/rejected). |
 | `df_interest.csv`               | RBA monthly data including Cash Rate, Housing Credit, Owner Credit, Investor Credit.                                                    |
 | `df_total_loans.csv`            | ABS total loans dataset by segment and buyer type.                                                                                      |
 | `df_owner_occupier_purpose.csv` | ABS owner-occupier loans by purpose (construction, purchase, refinancing, etc.).                                                        |
