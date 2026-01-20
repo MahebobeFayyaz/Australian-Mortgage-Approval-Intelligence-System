@@ -3,7 +3,7 @@
 
 ## Tools & Technologies Used
 
-* **Programming & Development:** Python
+* **Programming:** Python
 * **Data Manipulation:** Pandas, NumPy
 * **Data Visualization:** Matplotlib, Seaborn
 * **Version Control:** Git, GitHub
