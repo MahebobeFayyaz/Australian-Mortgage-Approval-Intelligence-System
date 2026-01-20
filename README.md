@@ -3,6 +3,12 @@
 
 ## Tools & Technologies Used
 
+* Programming & Development: Python
+* Data Manipulation: Pandas, NumPy
+* Data Visualization: Matplotlib, Seaborn
+* Version Control: Git, GitHub
+* Development Environment: Visual Studio Code
+
 ## Project Structure
 
 ## Dataset Folder
